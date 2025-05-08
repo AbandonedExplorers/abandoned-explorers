@@ -5,5 +5,19 @@
   "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbandonedExplorers/abandoned-explorers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/AbandonedExplorers/abandoned-explorers/issues"
+  },
+  "homepage": "https://github.com/AbandonedExplorers/abandoned-explorers#readme",
+  "description": ""
 }
