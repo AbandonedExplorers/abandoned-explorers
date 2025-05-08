@@ -1,7 +1,7 @@
 {
   "name": "abandoned-explorers",
   "version": "1.0.0",
-  "description": "Static landing page for Abandoned Places Explorer Box",
+  "main": "send-email.js",
   "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0"
