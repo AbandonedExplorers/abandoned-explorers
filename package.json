@@ -1,8 +1,12 @@
 {
   "name": "abandoned-explorers",
   "version": "1.0.0",
-  "main": "send-email.js",
-  "license": "MIT",
+  "main": "netlify/functions/send-email.js",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Nothing to build'",
+    "dev": "netlify dev"
+  },
   "dependencies": {
     "@sendgrid/mail": "^7.7.0"
   }
